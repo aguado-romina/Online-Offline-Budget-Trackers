@@ -18,7 +18,13 @@ When brought back online:
 
 ## Deployed Link
 
+https://serene-taiga-91199.herokuapp.com/
+
 ## Images
+
+## Images
+
+![](/public/img/App.png)
 
 ## Installation
 
@@ -30,6 +36,7 @@ To start the app use server.js.
 ## Languages
 
 Mongo Atlas
+Heroku
 
 ## Contribute
 
