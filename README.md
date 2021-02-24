@@ -22,8 +22,6 @@ https://serene-taiga-91199.herokuapp.com/
 
 ## Images
 
-## Images
-
 ![](/public/img/App.png)
 
 ## Installation
